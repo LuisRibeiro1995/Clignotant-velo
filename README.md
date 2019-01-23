@@ -1,6 +1,6 @@
 # __Clignotant vélo__
 
-![Clignotant](preview.jpg)
+[![video](https://img.youtube.com/vi/A3YGFTn7JCA/0.jpg)](https://www.youtube.com/watch?v=A3YGFTn7JCA)
 
 ## __Bibliothéque utilisée__
 
