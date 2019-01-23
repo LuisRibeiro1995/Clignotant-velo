@@ -1,6 +1,6 @@
 # __Clignotant vélo__
 
-[![video](https://img.youtube.com/vi/A3YGFTn7JCA/0.jpg)](https://www.youtube.com/watch?v=A3YGFTn7JCA)
+[![video](https://img.youtube.com/vi/A3YGFTn7JCA/0.jpg)](https://youtu.be/I3PM2Pmtjjs)
 
 ## __Composants__
 
