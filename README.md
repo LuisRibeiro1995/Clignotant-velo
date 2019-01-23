@@ -2,9 +2,9 @@
 
 LED connectée à l'arduino pour la signalisation d'un vélo
 
-Projet en binome :
+__Projet en binome :
 @LuisRibeiro1195
-@OSylla92
+@OSylla92__
 
 [![video](https://img.youtube.com/vi/A3YGFTn7JCA/0.jpg)](https://youtu.be/I3PM2Pmtjjs)
 
