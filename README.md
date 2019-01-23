@@ -2,8 +2,8 @@
 
 LED connectée à l'arduino pour la signalisation d'un vélo
 Projet en binome :
-![@LuisRibeiro1195](https://github.com/LuisRibeiro1995)
-@OSylla92
+[@LuisRibeiro1995](https://github.com/LuisRibeiro1995)
+[@OSylla92](https://github.com/OSylla92)
 
 [![video](https://img.youtube.com/vi/A3YGFTn7JCA/0.jpg)](https://youtu.be/I3PM2Pmtjjs)
 
